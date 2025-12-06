@@ -21,3 +21,6 @@ dfClientes.index
 
 # %%
 dfClientes.info()
+
+# %% tipos de dados de cada coluna
+dfClientes.dtypes
